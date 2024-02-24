@@ -261,9 +261,9 @@ const Home = () => {
   </div>
 </section>
 
-<section style={{margin:"15px 0"}}>
+{/* <section style={{margin:"15px 0"}}>
   <video src={video} autoPlay loop muted/>
-</section>
+</section> */}
 
 
     </div>
